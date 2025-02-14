@@ -1,7 +1,5 @@
 package com.java.lambdaFunction;
 
-import java.util.function.IntFunction;
-
 public class StaticVariableInLambdaExpression {
 
 	static int i = 0;
